@@ -1,8 +1,8 @@
 <?php
 /*
     STARTER VERSION-CUSTOMER WEB SIDE
-
     
+
     This page is intentionally incomplete.
     It displays available vehicles and shows the customer reservation form.
     The form does NOT save yet.
